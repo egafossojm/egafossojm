@@ -36,7 +36,7 @@ I am a certified Cloud Architect. I design and build resilient cloud Architectur
     <tr>
     <td>
       <!-- <a href="http://www.github.com/egafossojm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=egafossojm&stroke=ffffff&background=1c1917&ring=0f172a&fire=0f172a&currStreakNum=ffffff&currStreakLabel=0f172a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
-      <a href="http://www.github.com/egafossojm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=egafossojm&stroke=ffffff&hide_border=true" /></a>
+      <a href="http://www.github.com/egafossojm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=egafossojm&hide_border=true" /></a>
     </td>
   </tr>
 </table>
