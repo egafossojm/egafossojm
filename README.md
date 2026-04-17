@@ -8,7 +8,7 @@ I am a certified Cloud Architect. I design and build resilient cloud Architectur
 
 * 🌍  I'm based in Sherbrooke, QC, Canada
 * ✉️  You can contact me at [egafosso@gmail.com](mailto:egafosso@gmail.com)
-* 🧠  I'm currently learning AI Engineering
+* 🧠  I'm currently up-skilling on AI Engineering
 * 👥  I'm looking to collaborate on Interesting projects
 * 💬  Ask me about I Love playing Football, The real one... lol
 
