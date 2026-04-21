@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ega Fosso
 ==================================================================================================================================
 
-Cloud Architect, DevOps and AI Engineering
+Cloud Architect, DevOps and AI Engineer
 -------------------------------------------
 
 I am a certified Cloud Architect. I design and build resilient cloud Architectures!
