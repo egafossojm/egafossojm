@@ -16,6 +16,7 @@ I am a certified Cloud Architect. I design and build resilient cloud Architectur
   <tr>
         <td><a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" title="AWS" alt="AWS" /></a></td>
         <td><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" title="Docker" alt="Docker" /></a></td>
+            <td>    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a></td>
         <td><a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" title="Linux" alt="Linux" /></a></td>
         <td><a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" title="Bash" alt="Bash" /></a></td>
         <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" title="MySQL" alt="MySQL" /></a></td>
@@ -25,7 +26,6 @@ I am a certified Cloud Architect. I design and build resilient cloud Architectur
     <td><a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" title="VS Code" alt="VS Code" /></a></td>
     <td><a href="https://www.vim.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="36" height="36" title="Vim" alt="Vim" /></a></td>
     <td><a href="https://portal.azure.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" title="Azure" alt="Azure" /></a></td>
-
   </tr>
 </table>
 
